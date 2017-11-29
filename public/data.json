@@ -1,0 +1,16 @@
+{
+    "nodes": [
+        {
+            "title": "AAA",
+            "nexts": [
+                "T", "F"
+            ]
+        },
+        {
+            "title": "BBB",
+            "nexts": [
+                "F", "T"
+            ]
+        }
+    ]
+}

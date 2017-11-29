@@ -1,0 +1,20 @@
+{
+  "name": "fc",
+  "version": "1.0.0",
+  "description": "visualization - flow chart",
+  "main": "index.js",
+  "repository": "https://github.com/zccz14/fc.git",
+  "author": "zccz14",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {
+    "@types/d3": "^4.12.0",
+    "d3": "^4.12.0",
+    "ts-loader": "^3.1.1",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  }
+}
